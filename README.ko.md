@@ -1,6 +1,6 @@
 # url-shortener-go
 
-🌐 [English](./README.md) | [한국어](./README.ko.md)
+[English](./README.md) | [한국어](./README.ko.md)
 
 Go 표준 라이브러리와 SQLite로만 만든 미니멀 URL 단축기 — 웹 프레임워크도, ORM도 안 씀.
 
