@@ -1,5 +1,7 @@
 # url-shortener-go
 
+🌐 [English](./README.md) | [한국어](./README.ko.md)
+
 Minimal URL shortener built with Go's standard library and SQLite — no web framework, no ORM.
 
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?logo=go&logoColor=white)
