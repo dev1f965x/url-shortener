@@ -1,4 +1,4 @@
-# url-shortener-go
+# url-shortener
 
 [English](./README.md) | [한국어](./README.ko.md)
 
@@ -31,8 +31,8 @@ Minimal URL shortener built with Go's standard library and SQLite — no web fra
 ### Run
 
 ```bash
-git clone https://github.com/dev1f965x/url-shortener-go.git
-cd url-shortener-go
+git clone https://github.com/dev1f965x/url-shortener.git
+cd url-shortener
 docker compose up --build
 ```
 

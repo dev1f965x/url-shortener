@@ -1,4 +1,4 @@
-/url-shortener-go
+/url-shortener
 /bin/
 *.exe
 *.db
