@@ -5,7 +5,7 @@ RUN go mod download
 COPY . .
 RUN CGO_ENABLED=0 go build -o url-shortener .
 
-FROM alpine:latest
+FROM alpine:3.22
 WORKDIR /app
 COPY --from=build /app/url-shortener .
 EXPOSE 8080
